@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DVTAssignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DVTAssignment_jar</output-path>
+    <root id="archive" name="DVTAssignment.jar">
+      <element id="module-output" name="DVTAssignment" />
+    </root>
+  </artifact>
+</component>
